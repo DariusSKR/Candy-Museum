@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  font-family: Nunito;
+}
+
+h1 span {
+  color: crimson;
+}
+
+#align-to-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#secondSection #thirdSection #forthSection {
+  margin-top: 50px;
+}
